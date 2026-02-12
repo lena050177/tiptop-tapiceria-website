@@ -35,13 +35,16 @@ WordPress · Elementor · PHP · MySQL · HTML · CSS · JavaScript
 ## Reports Preview
 
 ### Revenue by Service
-![Revenue](screenshots/reports/revenue_by_service.png)
+![Revenue](screenshots/reports/report_incoms_services.png)
+![Revenue](screenshots/reports/Graphic incoms.png)
 
 ### Monthly Revenue
-![Monthly](screenshots/reports/monthly_revenue.png)
+![Monthly](screenshots/reports/tiptop_crm_monthly_revenue_report.png)
+![Monthly](screenshots/reports/Graphic monthly revenue report.png)
 
 ### Orders by Status
-![Status](screenshots/reports/orders_by_status.png)
+![Status](screenshots/reports/tiptop_crm_orders_by_status_report.png)
+![Status](screenshots/reports/Graphic Orders by Status.png)
 
 
 
