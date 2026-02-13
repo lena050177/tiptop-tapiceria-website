@@ -56,6 +56,18 @@ WordPress · Elementor · PHP · MySQL · HTML · CSS · JavaScript
 ### Orders by Status – SQL Result
 ![SQL Status](screenshots/reports/tiptop_crm_orders_by_status_report.png)
 
+---
+##TipTop CRM
+
+### Login admin
+![Login](screenshots/crm/login_admin_tiptop_tapiceria.png)
+
+### Admin Dashboard
+![Dashboard](screenshots/crm/tiptop_crm_dashboard.png)
+
+### CRM Reports
+![Reports](screenshots/crm/tiptop_crm_reports.png)
+
 
 ## Author
 Elena Yudina  
