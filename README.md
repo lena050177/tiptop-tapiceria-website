@@ -1,31 +1,35 @@
-# TipTop Tapicería – Business Website
+# Corporate Website in WordPress
 
-Multilingual corporate website developed for a real car upholstery workshop in Marbella, Spain.
+Development of a corporate website in WordPress for a real client.  
+The project focuses on page structure, custom visual design, contact form functionality, multilingual support, and responsive layout.
 
 ## 🌐 Live Demo
-https://tiptoptapiceria.online
-
-## 🧩 Project Overview
-Full development and deployment of a business website focused on customer contact, service presentation, and multilingual accessibility.
-
-## 🚀 Key Features
-- Multilingual interface (Spanish / English / Russian)
-- Responsive design for desktop and mobile devices
-- Functional contact form with email delivery
-- Google Maps integration
-- Basic SEO structure and optimization
-- Deployment on real hosting environment
+[View Website](https://tiptoptapiceria.online/)
 
 ## 🛠 Technologies Used
-WordPress · Elementor · PHP · MySQL · HTML · CSS · JavaScript
+- WordPress
+- HTML5 / CSS3
+- Basic JavaScript
+- Contact form plugins
+- Responsive design
+- Multilingual configuration
+- Basic CRM integration for contact management
 
-## 👩‍💻 My Responsibilities
-- Complete WordPress setup and configuration  
-- Page structure creation and navigation design  
-- Visual customization and responsive adjustments  
-- Contact form configuration and testing  
-- Multilingual content implementation  
-- Final deployment and live testing 
+## 📌 Features
+- Complete corporate website structure
+- Functional contact form
+- Mobile and tablet responsive layout
+- Multilingual implementation
+- Deployment on real hosting
+- Basic CRM integration to manage client contacts
+
+## 👩‍💻 My Role
+- Full WordPress site configuration  
+- Custom visual styling and layout adjustments  
+- Page structure creation and navigation setup  
+- Contact form configuration  
+- CRM basic setup and integration  
+- Website deployment and testing on hosting  
 
 ## Technologies
 WordPress · Elementor · PHP · MySQL · HTML · CSS · JavaScript
