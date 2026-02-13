@@ -1,16 +1,31 @@
-# tiptop-tapiceria-website
-# TipTop Tapicería Website
+# TipTop Tapicería – Business Website
 
-Multilingual business website for a car upholstery workshop in Marbella, Spain.
+Multilingual corporate website developed for a real car upholstery workshop in Marbella, Spain.
 
-🌐 Live site: https://tiptoptapiceria.online
+## 🌐 Live Demo
+https://tiptoptapiceria.online
 
-## Features
-- Multilingual (ES / EN / RU)
-- Responsive design
-- Contact form with email delivery
+## 🧩 Project Overview
+Full development and deployment of a business website focused on customer contact, service presentation, and multilingual accessibility.
+
+## 🚀 Key Features
+- Multilingual interface (Spanish / English / Russian)
+- Responsive design for desktop and mobile devices
+- Functional contact form with email delivery
 - Google Maps integration
-- SEO optimization
+- Basic SEO structure and optimization
+- Deployment on real hosting environment
+
+## 🛠 Technologies Used
+WordPress · Elementor · PHP · MySQL · HTML · CSS · JavaScript
+
+## 👩‍💻 My Responsibilities
+- Complete WordPress setup and configuration  
+- Page structure creation and navigation design  
+- Visual customization and responsive adjustments  
+- Contact form configuration and testing  
+- Multilingual content implementation  
+- Final deployment and live testing 
 
 ## Technologies
 WordPress · Elementor · PHP · MySQL · HTML · CSS · JavaScript
@@ -69,9 +84,10 @@ WordPress · Elementor · PHP · MySQL · HTML · CSS · JavaScript
 ![Reports](screenshots/crm/tiptop_crm_reports.png)
 
 
-## Author
-Elena Yudina  
-Junior Web Developer
+## 👤 Author
+**Elena Yudina**  
+Junior Web Developer  
 
-GitHub: https://github.com/lena050177
+GitHub: https://github.com/lena050177  
+Email: lena.ydina@gmail.com
 
